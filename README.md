@@ -4,8 +4,7 @@ Análisis de datos de viajes de bike-share (Divvy/Cyclistic, Chicago) para ident
 diferencias de comportamiento entre ciclistas con membresía anual y ciclistas ocasionales, 
 como parte del Google Data Analytics Professional Certificate.
 
-## Business Task
-[Pega aquí tu declaración del business task]
+## Business TaskAnalizar los datos históricos de viajes de Cyclistic para identificar diferencias de comportamiento entre ciclistas con membresía anual (members) y ciclistas ocasionales (casual), con el fin de generar insights que sustenten una estrategia de marketing orientada a convertir ciclistas ocasionales en miembros anuales.
 
 ## Proceso (Ask → Prepare → Process → Analyze → Share → Act)
 El análisis completo, con documentación paso a paso, está en 
